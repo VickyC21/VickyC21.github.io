@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-- 👋 Hi, I’m @vortezwohl, an undergraduate student from Fujian University of Technology.
-- 🤖 I’m interested in NLP/NLU and LLMs.
-- 👨‍💻 I’m currently working on NLU research.
-- 👀 I’m looking to collaborate on [Autono](https://github.com/vortezwohl/Autono). 
-- 📫 How to reach me: vortez.wohl@gmail.com 
+你好，我是 Vicky，一个元气满满的学习者。
+
+这里记录我的学习笔记、日常随笔，以及成长过程中的思考。
+
+我相信持续输入、认真实践和适时复盘，能让每一次微小的进步都有意义。
+
+希望能在文字里与同样热爱生活、乐于学习的人相遇。
