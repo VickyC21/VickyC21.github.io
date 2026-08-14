@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-你好，我是 Vicky，一个元气满满的学习者。
+Hi, I'm Vicky, an energetic learner.
 
-这里记录我的学习笔记、日常随笔，以及成长过程中的思考。
+This is where I share study notes, personal reflections, and thoughts from my learning journey.
 
-我相信持续输入、认真实践和适时复盘，能让每一次微小的进步都有意义。
+I believe that continuous learning, thoughtful practice, and regular reflection make every small step meaningful.
 
-希望能在文字里与同样热爱生活、乐于学习的人相遇。
+I hope this space brings me closer to people who are curious, kind, and always willing to learn.
