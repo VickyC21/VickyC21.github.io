@@ -5,9 +5,7 @@ title: "Polymarket 套利：从逻辑一致性到订单簿执行"
 categories: Finance
 tags: [Prediction Market, Polymarket, Arbitrage, Market Microstructure, Quantitative Finance, Integer Programming]
 author:
-  - 吴子豪
-  - vortezwohl
-  - Codex
+  - Vicky
 excerpt: >-
   预测市场套利并不等于看到 YES 与 NO 的价格相加不是 1 就立刻下单。真正的套利，是先根据合约的结算规则构造一个在每一种最终结果下都至少支付同样金额的头寸组合，再证明这个组合的真实成交成本低于最低兑付，最后处理中央限价订单簿中的深度、滑点、部分成交、撤单、结算解释与资金占用。本文以 Polymarket 为背景，从零解释条件、市场、YES/NO 代币、互斥穷尽关系、蕴含关系与边际多面体；手把手推导单条件、同市场与跨市场三类逻辑套利；说明为什么历史成交均价不是当前可交易价格，为什么非原子多腿执行会把“纸面无风险”变成真实风险，以及如何用保守的成本、规模和停止规则管理这种风险。文章同时校正一则流行帖文中把 Polymarket 历史实证与 Frank-Wolfe 做市商理论混为一谈的叙事：数学工具很有价值，但不能代替对具体合约、订单簿和执行路径的逐项验证。读完后，读者应能独立审计一个候选机会是否真的是套利，知道哪些环节必须自动化，哪些环节必须人工复核，并能分辨历史研究结论、理论模型和实盘工程假设。
 ---
